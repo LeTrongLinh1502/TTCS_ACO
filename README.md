@@ -39,6 +39,30 @@ Kết quả TEST1
 
 Kết quả TEST2
 ![image](https://user-images.githubusercontent.com/91041371/169637089-c5aae449-de58-4b47-9a0e-9c0bd73df226.png)
+## DemoAppACO
+### Chuẩn bị :
+Cài đặt NetBean:(https://netbeans.apache.org/download/index.html)
+
+Cài đặt JDK:(https://www.oracle.com/java/technologies/downloads/)
+
+Cài đặt TomCat:https://tomcat.apache.org/download-90.cgi
+### Chạy thuật toán
+Chạy run File 
+
+![image](https://user-images.githubusercontent.com/91041371/169637329-7e2b99b8-2522-47ea-8d59-a3bfa1b0c5f0.png)
+ Nhập mật khẩu TomCat
+ ![image](https://user-images.githubusercontent.com/91041371/169637386-0f32df9d-3c68-4a27-8e51-960c578c418d.png)
+  
+ Hiển thị trang thao tác qua cổng 8080
+ ![image](https://user-images.githubusercontent.com/91041371/169637427-91451962-b26f-493c-a8f3-00bb0a53e2f8.png)
+
+Thao tác click để tạo điểm ,điều chỉnh các tham số
+![image](https://user-images.githubusercontent.com/91041371/169637482-216c9032-129f-4752-9a00-de8ee94f243b.png)
+
+Nhấn Start
+
+### Kết quả
+![image](https://user-images.githubusercontent.com/91041371/169637504-2f563e32-5fe7-4cf7-854b-ae96d861c945.png)
 
 
 
